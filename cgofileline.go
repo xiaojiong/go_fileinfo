@@ -1,4 +1,4 @@
-package fileinfo
+package go_fileinfo
 
 /*
 #include <stdio.h>

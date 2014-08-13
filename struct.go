@@ -1,4 +1,4 @@
-package fileinfo
+package go_fileinfo
 
 import (
 	"encoding/json"
